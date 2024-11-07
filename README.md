@@ -1,1 +1,1 @@
-# g3-dbms
+## Go Galon & Gas Database Manajement System using SQL Lite
